@@ -86,3 +86,8 @@ print(setMonthData,type(setMonthData))
 name = "Amit Sakhare" # name is variable and Amit sakhare is store value in name variable.
 print(name)
 #Output :- Amit Sakhare
+
+# Practice Q - 1 WAP to first name and last name and conconate these
+firstName = "Amit"
+lastName = "Sakhare"
+print(firstName +" "+ lastName)
